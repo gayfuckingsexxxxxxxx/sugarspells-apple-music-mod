@@ -1,0 +1,7 @@
+# Copy to local.properties (git-ignored). NEVER commit real values.
+sdk.dir=/path/to/Android/Sdk
+
+# Phase 1 (login) - Apple Music credentials, kept out of the repo:
+apple.teamId=
+apple.keyId=
+apple.privateKeyPath=
